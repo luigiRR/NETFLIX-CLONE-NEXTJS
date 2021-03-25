@@ -60,7 +60,7 @@ export default function Home() {
         </h2>
         <p className="text-white text-lg">
           ¿Quieres ver Netflix ya? Ingresa tu email para crear una cuenta o
-          reiniciar tu membresía de Netflix.
+          reiniciar tu membresía de Netflix, go!.
         </p>
 
         <div className="flex">
